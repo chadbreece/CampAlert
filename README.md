@@ -1,0 +1,5 @@
+- [] Chad - Create CSV of ID to campsite
+- [] Chad - Create a function that takes user search data and runs a query
+- [] Juan - Create one thread per user
+- [] Juan - Run the code in Raspberry Pi
+- [] Juan - Use cron to schedule restarting the code 

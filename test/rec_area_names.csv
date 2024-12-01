@@ -1,0 +1,1900 @@
+RecAreaID,RecAreaName
+4,WestWorld
+6,Lake Pleasant
+9,Shadow Mountain Lake
+10,White Mountains National Recreation Area
+11,Folsom Lake
+12,Folsom S. Canal Rec. Trail
+14,Imperial Reservoir Area:  Mittry Lake Wildlife Area
+15,Imperial Reservoir Area:  Picacho State Recreation Area
+16,Davis Dam
+17,Lake Berryessa
+18,Lake Cahuilla
+19,Lake Casitas
+20,Lake Woollomes
+21,Lewiston National Recreation Area
+22,Little Panoche Dam
+23,Los Banos Reservoir
+24,Millerton Lake
+25,New Melones Lake
+26,Nimbus Fish Hatchery
+27,Abiquiu Lake
+29,Hoover Dam
+30,Boca Reservoir
+31,Cachuma Lake
+32,Trinity Lake
+33,Contra Loma Reservoir
+34,East Park Reservoir
+35,Lake Elwell
+37,O'Neill Forebay
+41,San Justo Reservoir
+42,San Luis Reservoir
+43,Shasta National Rec. Area
+44,San Joaquin River Gorge Special Recreation Management Area
+45,Stampede Reservoir
+46,Stony Gorge Reservoir
+47,Trinity River Fish Hatchery
+48,Bonny Reservoir (Bonny Lake State Park)
+49,Carter Reservoir (Carter Lake)
+50,Crawford Reservoir
+51,East Portal Reservoir
+52,Flatiron Reservoir
+53,Fruitgrowers Reservoir
+54,Jackson Gulch Reservoir
+57,Paonia Reservoir
+59,Ridgway Reservoir
+60,Rifle Gap Reservoir
+63,Vallecito Reservoir
+65,Green Mountain Reservoir
+66,Horsetooth Reservoir
+67,Lake Estes
+68,Lake Granby
+69,Nelson Reservoir
+70,Pishkun Reservoir
+71,Willow Creek Reservoir - Montana
+72,Box Butte Reservoir
+73,Calamus Reservoir (Virginia Smith Dam)
+74,Davis Creek Reservoir
+75,Enders Reservoir
+76,Harry Strunk Lake (Medicine Creek State Park Recreation Area)
+77,Hugh Butler Lake (Red Willow Reservoir State Recreation Area)
+78,Lake Minatare State Recreation Area
+79,Lake Alice
+80,Merritt Reservoir
+81,Sherman Reservoir
+82,Stateline Islands Unit
+83,Swanson Reservoir (Trenton Dam)
+84,Winters Creek Lake
+85,Lahontan Reservoir
+86,Rye Patch Reservoir
+87,Avalon Reservoir
+88,Marys Lake
+89,Pinewood Lake
+90,Pueblo Reservoir
+91,Ruedi Reservoir
+92,Turquoise Lake
+93,Twin Lakes
+94,Willow Creek Reservoir
+95,Navajo Reservoir - Colorado
+98,Brantley Reservoir
+99,Caballo Reservoir
+100,Elephant Butte Reservoir
+101,El Vado Reservoir
+102,Heron Reservoir
+103,Lake Sumner
+104,Leasburg Diversion Dam
+105,American Falls Reservoir
+106,Anderson Ranch Reservoir Boat Ramps
+107,Arrowrock Reservoir
+108,Black Canyon Reservoir
+109,Lake Cascade 
+110,Deadwood Reservoir
+111,Island Park Reservoir
+112,Lake Lowell
+113,Lake Waha
+114,Silvio O. Conte National Fish and Wildlife Refuge
+115,Lake Walcott
+116,Little Wood River Reservoir
+117,Mann Creek Reservoir
+118,Montour Wildlife/Recreation Management Area
+119,Reservoir A
+120,Ririe  Reservoir
+121,Soldiers Meadow Reservoir
+122,Apache-Sitgreaves National Forest
+123,Cedar Bluff Reservoir
+124,Cheney Reservoir
+125,Kirwin Reservoir
+126,Keith Sebelius Reservoir (Prairie Dog State Park)
+127,Lovewell Reservoir
+128,Waconda Reservoir (Glen Elder)
+129,Anita Reservoir
+130,Canyon Ferry Lake
+131,Clark Canyon Reservoir
+132,Fresno Reservoir
+133,Gibson Reservoir
+134,Helena Valley Reservoir
+135,Hungry Horse Reservoir
+136,Nambe Falls Reservoir
+137,Navajo Reservoir - New Mexico
+141,Dalton Highway
+143,Bayou Bodcau Reservoir
+144,Ouachita-Black River - Columbia Pool
+145,Ouachita-Black River - Jonesville Pool
+146,Arkabutla Lake
+147,Lake Ouachita
+148,Caddo Lake
+149,Degray Lake
+150,Enid Lake
+151,Grenada Lake
+152,Lake Greeson
+153,Pearl River - 3 Pools
+154,Sardis Lake
+155,Wallace Lake
+156,Ouachita-Black River - Calion Pool
+157,Ouachita-Black River - Felsenthal Pool
+158,Coralville Lake
+159,Mississippi River - Pools 11-22
+160,Lake Red Rock
+161,Saylorville Lake
+162,Eau Galle Lake
+163,Homme Lake
+164,Lac Qui Parle Lake
+165,Ashtabula Lake
+166,Traverse Lake
+167,Mississippi River - Pool 3
+168,Mississippi River - Pool 4
+169,Mississippi River - Pool 5
+170,Mississippi River - Pool 6
+171,Mississippi River - Pool 8
+172,Mississippi River - Pool 9
+173,Mississippi River - Pool 10
+174,Mississippi River - Pool 5A
+175,Orwell Lake
+176,Mississippi River Headwaters - Winnibigosh Lake
+177,Mississippi River - Pool 1
+178,Mississippi River - Pool 2
+179,Mississippi River - Pool 7
+180,Mississippi River - St. Anthony Falls Pool
+181,Almond Lake
+182,Aylesworth Creek Lake
+183,Jennings Randolph Lake
+184,Cowanesque Lake
+185,Curwensville Lake
+186,East Sidney Lake
+187,Raystown Lake
+188,Foster Joseph Sayers Dam
+189,Whitney Point
+190,Kettle Creek Lake
+191,Tioga-Hammond Lakes
+192,Moomaw Lake
+193,Dismal Swamp Canal
+194,Beltzville Lake
+195,Blue Marsh Lake
+196,IWW Delaware River to Chesapeake Bay
+197,Prompton Lake
+198,Francis E. Walter Dam
+199,Black Rock Lake
+200,Cape Cod Canal
+201,Ball Mountain Lake
+202,Barre Falls Dam
+203,Birch Hill Dam
+204,Blackwater Dam
+205,Buffumville Lake
+206,Colebrook River Lake
+207,Conant Brook Dam
+208,East Brimfield Lake
+209,Edward MacDowell Lake
+210,Franklin Falls Dam
+211,Hancock Brook Lake
+212,Hodges Village Dam
+213,Hop Brook Lake
+214,Hopkinton-Everett Lake
+215,Knightville Dam
+216,Littleville Lake
+217,Mansfield Hollow Lake
+218,North Hartland Lake
+219,North Springfield Lake
+220,Northfield Brook Lake
+221,Otter Brook Lake
+222,Surry Mountain Lake
+223,Thomaston Dam
+224,Townshend Lake
+225,Tully Lake
+226,Union Village Dam
+227,West Hill Dam
+228,West Thompson Lake
+229,Westville Lake
+230,Charles River
+231,Blue River Lake
+232,Cottage Grove Lake
+233,Cougar Lake
+234,"The Dalles Lock and Dam, Lake Celilo"
+235,Detroit Lake
+236,Dorena Lake
+237,Fern Ridge Lake
+238,Green Peter Lake
+239,Hills Creek Lake
+240,Fall Creek Lake
+241,"John Day Lock and Dam, Lake Umatilla"
+242,Lost Creek Lake
+244,Foster Lake
+245,Willow Creek
+246,Lookout Point Lake
+247,Bonneville Lock and Dam
+248,Dexter Lake
+249,Lake Pend Oreille
+250,Lake Washington Ship Canal
+251,Libby Dam and Lake Koocanusa
+252,Mud Mountain Dam (White River)
+253,Keystone Harbor
+254,Rufus Woods Lake
+255,Lake Sacajawea
+256,Dworshak Reservoir
+257,Lake Bryan
+258,Lower Granite Lake
+259,Lake West
+260,Lucky Peak Lake
+261,Lake Wallula
+262,Bennington Lake
+263,Clinton Lake
+264,Harlan County Lake
+265,Hillsdale Lake
+266,Kanopolis Lake
+267,Harry S. Truman Lake
+268,Long Branch Lake
+269,Melvern Lake
+270,Milford Lake
+271,Perry Lake
+272,Pomme De Terre Lake
+273,Pomona Lake
+274,Rathbun Lake
+275,Smithville Lake
+276,Stockton Lake
+277,Tuttle Creek Lake
+278,Wilson Lake
+279,Longview Lake
+280,Blue Springs Lake
+281,Wehrspann Lake
+282,Lake Sharpe
+283,Bowman Haley Lake
+284,Chatfield Lake
+285,Cherry Creek Lake
+286,Cottonwood Springs Lake
+287,Cold Brook Lake
+288,Fort Peck Project
+289,Lake Francis Case
+290,Sakakawea Lake
+291,Lewis and Clark Lake
+292,Lake Oahe
+293,Pipestem Lake
+294,Standing Bear Lake
+295,Olive Creek Lake
+296,Bluestem Lake
+297,Wagontrain Lake
+298,Stagecoach Lake
+299,Yankee Hill Lake
+300,Conestoga Lake
+301,Twin Lakes
+302,Pawnee Lake
+303,Holmes Lake
+304,Branched Oak Lake
+305,Glenn Cunningham Lake
+306,Bear Creek Lake
+307,Zorinsky Lake
+308,Alum Creek Lake
+309,Kanawha River - Winfield Pool
+310,Kanawha River - Marmet Pool
+311,Kanawha River - London Pool
+312,Beech Fork Lake
+313,Ohio River - Belleville Pools
+314,Bluestone Lake
+315,Burnsville Lake
+316,Ohio River - Meldahl Pool
+317,Deer Creek Lake
+318,Delaware Lake
+319,Dewey Lake
+320,Dillon Lake
+321,East Lynn Lake
+322,Fishtrap Lake
+323,Ohio River - Robert. C. Byrd Pool
+324,Grayson Lake
+325,Ohio River - Greenup Pool
+326,John W. Flannagan Dam and Reservoir
+327,North Branch Kokosing River Lake
+328,North Fork of Pound River Lake
+329,Paint Creek Lake
+330,Paintsville Lake
+331,R.D. Bailey Lake
+332,Ohio River - Racine Pool
+333,Summersville Lake
+334,Sutton Lake
+335,Burr Oak Lake
+336,Ohio River - Willow Island Pool
+337,Wills Creek Lake
+338,Yatesville Lake
+339,Mohawk Dam
+340,Atwood Lake
+341,Bolivar Dam
+342,Charles Mill Lake
+343,Clendening Lake
+344,Dover Dam
+345,Mohicanville Dam
+346,Piedmont Lake
+347,Pleasant Hill Lake
+348,Senecaville Lake
+349,Tappan Lake
+350,Beach City Lake
+351,Leesville Lake
+352,Barren River Lake
+353,Brookville Lake
+354,Buckhorn Lake
+355,Caesar Creek Lake
+356,Cagles Mill Lake
+357,Ohio River - Cannelton Pool
+358,Carr Creek Lake
+359,Cave Run Lake
+360,Clarence J. Brown Dam and Reservoir
+361,William H. Harsha Lake
+362,Green River Lake
+363,J. Edward Roush Lake
+364,Kentucky River
+365,Cecil M. Harden Lake
+366,Ohio River - Markland Pool
+367,Ohio River - McAlpine Pool
+368,Mississinewa Lake
+369,Monroe Lake
+370,Ohio River - Newburgh Pool
+371,Nolin River Lake
+372,Patoka Lake
+373,Rough River Lake
+374,Salamonie Lake
+375,Ohio River - Smithland Pool
+376,Taylorsville Lake
+377,Ohio River - John T. Myers Lock and Dam
+378,West Fork of Mill Creek Lake
+379,Greenriver +2 Locks
+380,Ohio River - Pool 52
+381,Ohio River - Pool 53
+382,Barkley Lake
+383,Center Hill Lake
+384,Cheatham Lock and Dam
+385,Cordell Hull Lake
+386,Dale Hollow Lake
+387,J Percy Priest Lake
+388,Laurel River Lake
+389,Martins Fork Lake
+390,Old Hickory Lake
+391,Lake Cumberland
+392,Berlin Lake
+393,Conemaugh River Lake
+394,Crooked Creek Lake
+395,East Branch Clarion River Lake
+396,Ohio River - Hannibal Pool
+397,Allegheny Reservoir
+398,Loyalhanna Lake
+399,Mahoning Creek Lake
+400,Monongahela River - Maxwell Pool
+401,Mosquito Creek Lake
+402,Ohio River - New Cumberland Pool
+403,Monongahela River - Opekiska Pool
+404,Ohio River - Pike Island Pool
+405,Shenango River Lake
+406,Stonewall Jackson Lake
+407,Tionesta Lake
+408,Tygart Lake
+409,Union City Dam
+410,Michael J Kirwan Lake
+411,Woodcock Creek Lake
+412,Youghiogheny River Lake
+431,Duluth-Superior Harbor
+432,Keweenaw Waterway
+433,Sturgeon Bay & Lake Michigan Ship Canal
+434,St Marys River
+435,Chena River Lakes
+437,Lake Okeechobee
+440,Allatoona Lake
+441,Tennessee-Tombigbee Waterway
+442,Lake Sidney Lanier
+443,Carters Lake
+444,Alabama River Lakes
+445,Lake Seminole
+448,Okatibbee Lake
+449,Walter F. George Lake
+450,West Point Lake
+451,George W. Andrews Lake
+452,Black Warrior and Tombigbee Lakes
+453,J. Strom Thurmond Lake
+454,Hartwell Lake
+455,Richard B. Russell Lake
+457,Falls Lake
+458,John H. Kerr Dam and Reservoir
+459,B. Everett Jordan Lake
+460,Philpott Lake
+461,W. Kerr Scott Dam & Reservoir
+462,Cape Fear River
+463,Alamo Lake
+464,Santa Fe Dam
+465,Mojave River Dam
+466,Carbon Canyon Dam
+467,Fullerton Dam
+468,Prado Dam
+469,Whittier Narrows Dam
+470,Sepulveda Dam
+471,Hansen Dam
+472,Santa Margarita Lake
+473,Black Butte Lake
+474,Harry L. Englebright Lake
+475,Martis Creek Lake
+476,New Hogan Lake
+477,Stanislaus River Parks
+478,Pine Flat Lake
+479,Kaweah Lake
+480,Eastman Lake
+481,Hensley Lake
+482,Lake Sonoma
+483,Mendocino Lake
+485,Cochiti Lake
+486,Conchas Lake
+487,Galisteo Dam
+488,Jemez Canyon Dam
+489,Santa Rosa Lake
+490,Trinidad Lake
+491,Two Rivers Dam
+492,Bardwell Lake
+493,Belton Lake
+494,Benbrook Lake
+495,Canyon Lake
+496,Cooper Lake
+497,Lake O' The Pines
+498,Grapevine Lake
+499,Hords Creek Lake
+500,Joe Pool Lake
+501,Lavon Lake
+502,Lewisville Lake
+503,Navarro Mills Lake
+504,Proctor Lake
+505,Sam Rayburn Reservoir
+506,O.C. Fisher Lake
+507,Somerville Lake
+508,Stillhouse Hollow Lake
+509,Wright Patman Lake
+510,Waco Lake
+511,Whitney Lake
+512,Aquilla Lake
+513,Ray Roberts Lake
+514,Steinhagen Lake
+515,Granger Lake
+516,Georgetown Lake
+517,Buffalo Bayou
+518,Wallisville Lake
+520,Arkansas River - Norrell Pool
+521,Arkansas River - Wilbur D. Mills Pool
+522,Arkansas River - Pool 3
+523,Arkansas River - Pool 4
+524,Arkansas River - Pool 5
+525,Arkansas River - Terry Lock and Dam
+526,Arkansas River - Murray Lock and Dam
+527,Arkansas River - Toad Suck Ferry Pool
+528,Arkansas River - Rockefeller Lake
+529,John Paul Hammerschmidt Lake
+530,Beaver Lake
+531,Blue Mountain Lake
+532,Clearwater Lake
+533,Dardanelle Lake
+534,Dequeen Lake
+535,Dierks Lake
+536,Gillham Lake
+537,Greers Ferry Lake
+538,Millwood Lake
+539,Nimrod Lake
+540,Norfork Lake
+541,Ozark Lake
+543,Bull Shoals Lake
+544,Arkansas River - Chouteau Lock and Dam
+545,Arkansas River - Newt Graham Pool
+546,Big Hill Lake
+547,Birch Lake
+548,Broken Bow Lake
+549,Canton Lake
+551,Council Grove Lake
+552,El Dorado Lake
+553,Elk City Lake
+554,Eufaula Lake
+555,Fall River Lake
+556,Fort Gibson Lake
+557,Fort Supply Lake
+558,Great Salt Plains Lake
+559,Heyburn Lake
+560,Hugo Lake
+561,Hulah Lake
+562,John Redmond Reservoir
+563,Kaw Lake
+564,Keystone Lake
+565,Marion Reservoir
+566,Oologah Lake
+567,Optima Lake
+568,Pat Mayse Lake
+569,Pine Creek Lake
+570,Arkansas River - Robert S. Kerr Pool
+571,Tenkiller Ferry Lake
+572,Toronto Lake
+573,Waurika Lake
+574,Arkansas River - Webbers Falls Pool
+575,Wister Lake
+576,Arkansas River - W.D. Mayo Pool
+577,Sardis Lake
+578,Lake Texoma
+579,Arcadia Lake
+580,Truscott Brine Lake
+581,Skiatook Lake
+583,Iditarod National Historic Trail Recreation Management Area
+584,Unalakleet Wild and Scenic River
+587,Virgin River Canyon Recreation Area (P)
+590,John Martin Reservoir
+591,Burro Creek Recreation Site
+596,La Posa Long Term Visitor Area
+597,Parker Strip Recreation Area
+599,Gulkana Wild and Scenic River
+601,University of Alaska Museum of the North
+603,Bill Williams River
+604,Honolulu Engineer District Pacific Regional Visitor Center (
+607,Alabama Hills
+609,American River North Middle South Forks
+611,Black Hills Back Country Byway
+612,South Yuba Recreation Area
+615,San Joaquin River Gorge Special Recreation Management Area
+618,Jawbone/Butterbredt Recreation Management Area
+620,Muleshoe Ranch
+621,Route 66 Historic Back Country Byway
+624,Big Sheep Creek
+626,Bradshaw Trail
+627,Calamity Camp Mining Site
+701,Fontenelle Reservoir
+708,Canyon Pintado National Historic District
+977,Willard Bay Reservoir
+978,Fremont Canyon Recreation Area (Pathfinder Dam)
+979,Chappie/Shasta Off-Highway Vehicle Recreation Area
+981,Atigun Pass
+1001,Dolores River
+1011,Idaho Panhandle National Forests
+1012,Nez Perce-Clearwater National Forests
+1013,Beaverhead-Deerlodge National Forest
+1014,Bitterroot National Forest
+1015,Custer National Forest
+1016,Flathead National Forest
+1017,Custer Gallatin National Forest
+1018,Helena-Lewis and Clark National Forest
+1019,Kootenai National Forest
+1020,Horsethief Canyon State Wildlife Area
+1022,Lolo National Forest
+1023,Boise National Forest
+1024,Caribou-Targhee National Forest
+1025,Payette National Forest
+1026,Salmon-Challis National Forest
+1027,Sawtooth National Forest
+1029,Humboldt-Toiyabe National Forest Headquarters
+1030,Ashley National Forest
+1031,Dixie National Forest
+1032,Fishlake National Forest
+1033,Manti-La Sal National Forest
+1035,Uinta-Wasatch-Cache National Forest
+1036,Bridger-Teton National Forest
+1037,Ouachita National Forest
+1038,Ozark-St. Francis National Forests
+1039,National Forests in Florida
+1040,Chattahoochee-Oconee National Forest
+1041,Ely Elk Viewing Area
+1042,Daniel Boone National Forest
+1043,Kisatchie National Forest
+1044,National Forests in Mississippi
+1045,National Forests in North Carolina
+1047,Francis Marion and Sumter National Forests
+1048,Cherokee National Forest
+1049,National Forests and Grasslands in Texas
+1050,George Washington & Jefferson National Forest
+1051,Arapaho & Roosevelt National Forests Pawnee NG
+1052,"Grand Mesa, Uncompahgre and Gunnison National Forest"
+1053,PSICC
+1054,San Juan National Forest
+1055,White River National Forest
+1056,Nebraska National Forests and Grasslands
+1057,Black Hills National Forest
+1058,Bighorn National Forest
+1059,Medicine Bow-Routt NFs & Thunder Basin NG
+1060,Shoshone National Forest
+1061,Angeles National Forest
+1062,Cleveland National Forest
+1063,Eldorado National Forest
+1064,Inyo National Forest
+1065,Klamath National Forest
+1066,Lassen National Forest
+1067,Los Padres National Forest
+1068,Mendocino National Forest
+1069,Modoc National Forest
+1070,Plumas National Forest
+1071,San Bernardino National Forest
+1072,Sequoia National Forest
+1073,Shasta-Trinity National Forest
+1074,Sierra National Forest
+1075,Six Rivers National Forest
+1076,Stanislaus National Forest
+1077,Tahoe National Forest
+1078,Shawnee National Forest
+1079,Wayne National Forest
+1080,Hoosier National Forest
+1081,Hiawatha National Forest
+1082,Huron-Manistee National Forests
+1083,Ottawa National Forest
+1084,Chippewa National Forest
+1085,Superior National Forest
+1086,Mark Twain National Forest
+1087,White Mountain National Forest
+1088,Allegheny National Forest
+1089,Green Mountain & Finger Lakes National Forests
+1090,Monongahela National Forest
+1091,Chequamegon-Nicolet NF
+1092,Coconino National Forest Recreation
+1093,Coronado National Forest
+1094,Kaibab National Forest
+1095,Prescott National Forest
+1096,Tonto National Forest
+1097,Carson National Forest
+1098,Cibola National Forest and Grasslands
+1099,Gila National Forest
+1100,Lincoln National Forest
+1101,Santa Fe National Forest
+1102,Columbia River Gorge National Scenic Area
+1104,Fremont-Winema National Forest
+1105,Malheur National Forest
+1106,Mt. Hood National Forest
+1108,Rogue River-Siskiyou National Forest
+1110,Siuslaw National Forest
+1111,Umatilla National Forest
+1112,Umpqua National Forest
+1113,Wallowa Whitman National Forest
+1114,Willamette National Forest
+1116,Colville National Forest
+1117,Gifford Pinchot National Forest
+1118,Mt. Baker-Snoqualmie National Forest
+1120,Olympic National Forest
+1124,Brekken-Holmes Recreation Area
+1125,Devils Lake State Park - Grahams Island State Park
+1126,Dickinson Reservoir - Edward Arthur Patterson Lake
+1127,Heart Butte Reservoir
+1128,Jamestown Reservoir
+1129,Altus Lake
+1130,Arbuckle Lake
+1131,Foss Reservoir
+1132,Fort Cobb Reservoir
+1133,Lake Thunderbird
+1134,McGee Creek Reservoir
+1135,Tom Steed Reservoir
+1136,Fish Slough Area of Critical Environmental Concern
+1137,Agate Reservoir
+1138,Beulah Reservoir
+1139,Bully Creek Reservoir
+1140,Clear Lake
+1141,Cold Springs Reservoir
+1142,Crane Prairie Reservoir
+1143,Crescent Lake
+1144,Emigrant Lake
+1145,Haystack Reservoir
+1146,Henry Hagg Lake
+1148,Hyatt Reservoir
+1149,Folsom Farm Recreation Site
+1150,Fort Meade Recreation Area
+1152,McKay Reservoir
+1153,Ochoco Reservoir
+1154,Owyhee Reservoir Boat Ramp
+1155,Phillips Lake
+1156,Prineville Reservoir
+1158,Unity Reservoir
+1159,Warm Springs Reservoir
+1160,Wickiup Reservoir
+1161,Angostura Reservoir
+1162,Galice-Hellgate Back Country Byway
+1163,Garden Park Fossil Area
+1164,Belle Fourche Reservoir - Rocky Point Recreation Area
+1165,Deerfield Reservoir
+1166,James Diversion Reservoir
+1167,Pactola Reservoir
+1168,Shadehill Reservoir
+1169,Choke Canyon Reservoir
+1170,Lake Texana
+1171,Twin Buttes Reservoir
+1173,Big Morongo Canyon Preserve
+1175,Dos Palmas Preserve
+1176,Grave Creek to Marial Back Country Byway
+1178,Deer Creek Reservoir
+1181,Afton Canyon
+1185,East Canyon Reservoir
+1186,Echo Reservoir
+1188,Hyrum Reservoir
+1190,Jordanelle Reservoir
+1191,Lost Creek Reservoir
+1193,Newton Reservoir
+1195,Red Fleet Reservoir
+1196,Rockport Reservoir
+1197,Rasor Off-Highway Vehicle Area
+1198,Grimes Point/Hidden Cave Archaeological Site
+1200,Scofield Reservoir
+1201,Starvation Reservoir
+1203,Steinaker Reservoir
+1206,Banks Lake
+1207,Billy Clapp Lake
+1211,Cle Elum Lake
+1213,Conconully Lake/Conconully Reservoir
+1214,Desert Wildlife Rec. Area
+1215,Easton Diversion Dam
+1216,Franklin D. Roosevelt Lake
+1221,Keechelus Lake
+1222,Potholes Reservoir
+1223,Quincy Wildlife Recreation Area
+1224,Rimrock Lake
+1225,Roza Diversion Dam
+1226,Scooteney Reservoir
+1227,Spectacle Lake
+1228,Alcova Reservoir
+1229,Big Sandy Reservoir
+1230,Boysen Reservoir
+1231,Buffalo Bill Reservoir
+1232,Deaver Reservoir
+1233,Glendo Reservoir
+1234,Grassy Lake
+1235,Cow Mountain Recreation Management Area
+1237,Juniper Flats
+1238,Gray Reef Reservoir
+1239,Guernsey Reservoir
+1241,Keyhole Reservoir
+1242,Kortes Reservoir/Miracle Mile Area
+1243,Lake Cameahwait
+1245,Ocean Lake
+1246,Pathfinder Reservoir
+1247,Pilot Butte Reservoir
+1248,Ralston Reservoir
+1250,Palisades Reservoir
+1251,S F Bay Model Regional Visitor Center
+1252,Brea Dam
+1255,Ernest F. Hollings Ace Basin National Wildlife Refuge
+1256,Agassiz National Wildlife Refuge
+1257,Alamosa National Wildlife Refuge
+1258,Alaska Maritime National Wildlife Refuge
+1259,Alaska Peninsula National Wildlife Refuge
+1260,Alligator River National Wildlife Refuge
+1261,Amagansett National Wildlife Refuge
+1262,Anahuac National Wildlife Refuge
+1263,Malheur National Wildlife Refuge
+1264,Aransas National Wildlife Refuge
+1265,Atchafalaya Basin
+1266,Bonnet Carre Spillway
+1267,Old River Lock
+1268,Cache Creek Natural Area
+1272,Arapaho National Wildlife Refuge
+1273,Archie Carr National Wildlife Refuge
+1274,Arctic National Wildlife Refuge
+1276,Arrowwood National Wildlife Refuge
+1277,Arrowwood Wetland Management District
+1278,Arthur R. Marshall Loxahatchee National Wildlife Refuge
+1279,Ash Meadows National Wildlife Refuge
+1280,Atchafalaya National Wildlife Refuge
+1281,Attwater Prairie Chicken National Wildlife Refuge
+1282,Audubon National Wildlife Refuge
+1284,Back Bay National Wildlife Refuge
+1285,Balcones Canyonlands National Wildlife Refuge
+1286,Bald Knob National Wildlife Refuge
+1287,Bandon Marsh National Wildlife Refuge
+1288,Banks Lake National Wildlife Refuge
+1289,Baskett Slough National Wildlife Refuge
+1290,Bayou Cocodrie National Wildlife Refuge
+1291,Bayou Sauvage Urban National Wildlife Refuge
+1292,Bear Lake National Wildlife Refuge
+1294,Bear Valley National Wildlife Refuge
+1295,Becharof National Wildlife Refuge
+1296,Benton Lake National Wildlife Refuge
+1297,Benton Lake Wetland Management District
+1298,Big Boggy National Wildlife Refuge
+1299,Big Branch Marsh National Wildlife Refuge
+1300,Big Lake National Wildlife Refuge
+1301,Big Muddy National Fish and Wildlife Refuge
+1302,Big Stone National Wildlife Refuge
+1303,Big Stone Wetland Management District
+1305,Bitter Lake National Wildlife Refuge
+1306,Black Bayou Lake National Wildlife Refuge
+1308,Blackbeard Island National Wildlife Refuge
+1309,Blackwater National Wildlife Refuge
+1310,Block Island National Wildlife Refuge
+1312,Bogue Chitto National Wildlife Refuge
+1313,Bombay Hook National Wildlife Refuge
+1314,Bon Secour National Wildlife Refuge
+1315,Bosque del Apache National Wildlife Refuge
+1316,Bowdoin National Wildlife Refuge
+1317,Bowdoin Wetland Management District
+1318,Brazoria National Wildlife Refuge
+1319,Breton National Wildlife Refuge
+1320,Browns Park National Wildlife Refuge
+1321,Buck Island National Wildlife Refuge
+1322,Buenos Aires National Wildlife Refuge
+1324,Cabeza Prieta National Wildlife Refuge
+1325,Cabo Rojo National Wildlife Refuge
+1326,Cache River National Wildlife Refuge
+1327,Caloosahatchee National Wildlife Refuge
+1328,Camas National Wildlife Refuge
+1329,Cameron Prairie National Wildlife Refuge
+1331,Canaan Valley National Wildlife Refuge
+1332,Cape May National Wildlife Refuge
+1333,Cape Meares National Wildlife Refuge
+1334,Cape Romain National Wildlife Refuge
+1335,Carlton Pond Waterfowl Production Area
+1336,Carolina Sandhills National Wildlife Refuge
+1337,Catahoula National Wildlife Refuge
+1338,Cedar Island National Wildlife Refuge
+1339,Cedar Keys National Wildlife Refuge
+1340,Cedar Point National Wildlife Refuge
+1341,Charles M. Russell National Wildlife Refuge
+1343,Chase Lake National Wildlife Refuge
+1344,Chase Lake Prairie Project Wetland Management District
+1345,Chassahowitzka National Wildlife Refuge
+1346,Chautauqua National Wildlife Refuge
+1347,Chickasaw National Wildlife Refuge
+1348,Chincoteague National Wildlife Refuge
+1349,Choctaw National Wildlife Refuge
+1350,Cibola National Wildlife Refuge
+1351,Clarence Cannon National Wildlife Refuge
+1352,Clear Lake National Wildlife Refuge
+1353,Coachella Valley National Wildlife Refuge
+1354,Cold Springs National Wildlife Refuge
+1355,Columbia National Wildlife Refuge
+1356,Colusa National Wildlife Refuge
+1357,Conboy Lake National Wildlife Refuge
+1358,Crab Orchard National Wildlife Refuge
+1359,Crane Meadows National Wildlife Refuge
+1361,Crescent Lake National Wildlife Refuge
+1363,Cross Creeks National Wildlife Refuge
+1364,Cross Island National Wildlife Refuge
+1365,Crystal River National Wildlife Refuge
+1366,Culebra National Wildlife Refuge
+1367,Currituck National Wildlife Refuge
+1368,Cypress Creek National Wildlife Refuge
+1369,D'Arbonne National Wildlife Refuge
+1370,Dahomey National Wildlife Refuge
+1371,Deep Fork National Wildlife Refuge
+1372,Deer Flat National Wildlife Refuge
+1373,Delevan National Wildlife Refuge
+1374,Delta National Wildlife Refuge
+1375,Des Lacs National Wildlife Refuge
+1376,Desert National Wildlife Refuge
+1377,Detroit Lakes Wetland Management District
+1378,DeSoto National Wildlife Refuge
+1379,Devils Lake Wetland Management District
+1380,Don Edwards San Francisco Bay National Wildlife Refuge
+1381,Driftless Area National Wildlife Refuge
+1382,Dungeness National Wildlife Refuge
+1384,Eastern Neck National Wildlife Refuge
+1385,Eastern Shore of Virginia National Wildlife Refuge
+1386,Edwin B. Forsythe National Wildlife Refuge
+1387,Egmont Key National Wildlife Refuge
+1389,Emiquon National Wildlife Refuge
+1390,Erie National Wildlife Refuge
+1391,Eufaula National Wildlife Refuge
+1392,Fallon National Wildlife Refuge
+1393,Felsenthal National Wildlife Refuge
+1394,Fergus Falls Wetland Management District
+1395,Fern Cave National Wildlife Refuge
+1396,Bear River Migratory Bird Refuge
+1397,Flint Hills National Wildlife Refuge
+1398,Fort Niobrara National Wildlife Refuge
+1399,Fox River National Wildlife Refuge
+1400,Grand Bay National Wildlife Refuge
+1401,Grand Cote National Wildlife Refuge
+1402,Grasslands Wildlife Management Area
+1403,Grays Harbor National Wildlife Refuge
+1404,Grays Lake National Wildlife Refuge
+1405,Great Bay National Wildlife Refuge
+1406,Great Dismal Swamp National Wildlife Refuge
+1408,Great Swamp National Wildlife Refuge
+1409,Great White Heron National Wildlife Refuge
+1410,Grulla National Wildlife Refuge
+1411,Guam National Wildlife Refuge
+1412,Hagerman National Wildlife Refuge
+1414,Hakalau Forest National Wildlife Refuge
+1415,Grass Lake National Wildlife Refuge
+1416,Hamden Slough National Wildlife Refuge
+1417,Hanalei National Wildlife Refuge
+1418,Handy Brake National Wildlife Refuge
+1419,Harbor Island National Wildlife Refuge
+1420,Harris Neck National Wildlife Refuge
+1422,Hatchie National Wildlife Refuge
+1423,Havasu National Wildlife Refuge
+1426,Hillside National Wildlife Refuge
+1427,Nathaniel P. Reed Hobe Sound National Wildlife Refuge
+1428,Holla Bend National Wildlife Refuge
+1429,Horicon National Wildlife Refuge
+1430,Humboldt Bay National Wildlife Refuge
+1431,Huron National Wildlife Refuge
+1432,Huron Wetland Management District
+1433,Hutton Lake National Wildlife Refuge
+1434,Imperial National Wildlife Refuge
+1435,Innoko National Wildlife Refuge
+1436,Iowa Wetland Management District
+1437,Iroquois National Wildlife Refuge
+1438,Island Bay National Wildlife Refuge
+1440,J. Clark Salyer National Wildlife Refuge
+1441,J. Clark Salyer Wetland Management District
+1442,"J.N. ""Ding"" Darling National Wildlife Refuge"
+1443,James Campbell National Wildlife Refuge
+1444,James River National Wildlife Refuge
+1445,John Hay National Wildlife Refuge
+1446,John Heinz National Wildlife Refuge at Tinicum
+1447,Julia Butler Hansen Refuge for the Columbian White-Tailed Deer
+1448,Kanuti National Wildlife Refuge
+1449,Keālia Pond National Wildlife Refuge
+1450,Kellys Slough National Wildlife Refuge
+1451,Kenai National Wildlife Refuge
+1452,Kern National Wildlife Refuge
+1453,Key West National Wildlife Refuge
+1454,Kīlauea Point National Wildlife Refuge
+1455,Kirtlands Warbler Wildlife Management Area
+1456,Kirwin National Wildlife Refuge
+1457,Klamath Marsh National Wildlife Refuge
+1458,Kodiak National Wildlife Refuge
+1459,Kofa National Wildlife Refuge
+1460,Kootenai National Wildlife Refuge
+1461,Koyukuk National Wildlife Refuge
+1463,Lacassine National Wildlife Refuge
+1464,Lacreek National Wildlife Refuge
+1466,Laguna Atascosa National Wildlife Refuge
+1467,Laguna Cartagena National Wildlife Refuge
+1468,Lake Alice National Wildlife Refuge
+1469,Lake Andes National Wildlife Refuge
+1472,Lake Ilo National Wildlife Refuge
+1473,Lake Isom National Wildlife Refuge
+1474,Lake Mason National Wildlife Refuge
+1476,Lake Ophelia National Wildlife Refuge
+1478,Umbagog National Wildlife Refuge
+1479,Lake Woodruff National Wildlife Refuge
+1480,Lake Zahl National Wildlife Refuge
+1481,Las Vegas National Wildlife Refuge
+1482,Lee Metcalf National Wildlife Refuge
+1483,Leopold Wetland Management District
+1484,Lewis and Clark National Wildlife Refuge
+1485,Litchfield Wetland Management District
+1486,Little Pend Oreille National Wildlife Refuge
+1487,Little River National Wildlife Refuge
+1488,Long Lake National Wildlife Refuge
+1490,Lostwood National Wildlife Refuge
+1491,Louisiana Wetland Management District
+1492,Lower Hatchie National Wildlife Refuge
+1493,Lower Klamath National Wildlife Refuge
+1494,Lower Suwannee National Wildlife Refuge
+1495,Mackay Island National Wildlife Refuge
+1496,Madison Wetland Management District
+1498,Mandalay National Wildlife Refuge
+1501,Elizabeth Hartwell Mason Neck National Wildlife Refuge
+1502,Mathews Brake National Wildlife Refuge
+1503,Matlacha Pass National Wildlife Refuge
+1504,Mattamuskeet National Wildlife Refuge
+1505,Maxwell National Wildlife Refuge
+1506,McFaddin National Wildlife Refuge
+1507,McKay Creek National Wildlife Refuge
+1508,Johnston Atoll National Wildlife Refuge
+1511,Merced National Wildlife Refuge
+1512,Meredosia National Wildlife Refuge
+1513,Merritt Island National Wildlife Refuge
+1514,Midway Atoll National Wildlife Refuge
+1515,Mingo National Wildlife Refuge
+1516,Minidoka National Wildlife Refuge
+1517,Minnesota Valley National Wildlife Refuge
+1518,Minnesota Valley Wetland Management District
+1519,Missisquoi National Wildlife Refuge
+1520,Mississippi Sandhill Crane National Wildlife Refuge
+1521,Modoc National Wildlife Refuge
+1522,Monomoy National Wildlife Refuge
+1523,Monte Vista National Wildlife Refuge
+1524,Montezuma National Wildlife Refuge
+1525,Moosehorn National Wildlife Refuge
+1526,Morgan Brake National Wildlife Refuge
+1527,Morris Wetland Management District
+1528,Muleshoe National Wildlife Refuge
+1529,Muscatatuck National Wildlife Refuge
+1530,Nantucket National Wildlife Refuge
+1532,National Elk Refuge
+1533,National Key Deer Refuge
+1534,Neal Smith National Wildlife Refuge
+1535,Necedah National Wildlife Refuge
+1537,Ninigret National Wildlife Refuge
+1538,Billy Frank Jr. Nisqually National Wildlife Refuge
+1539,North Platte National Wildlife Refuge
+1540,Northwest Montana Wetland Management District
+1541,Nowitna National Wildlife Refuge
+1542,Sam D. Hamilton Noxubee National Wildlife Refuge
+1543,Ohio River Islands National Wildlife Refuge
+1544,Okefenokee National Wildlife Refuge
+1545,Optima National Wildlife Refuge
+1546,Oregon Islands National Wildlife Refuge
+1547,Ottawa National Wildlife Refuge
+1548,Ouray National Wildlife Refuge
+1549,Overflow National Wildlife Refuge
+1550,Oxbow National Wildlife Refuge
+1551,Oxford Slough Waterfowl Production Area
+1552,Congressman Lester Wolff Oyster Bay National Wildlife Refuge
+1553,Ozark Cavefish National Wildlife Refuge
+1555,Pahranagat National Wildlife Refuge
+1556,Panther Swamp National Wildlife Refuge
+1557,Parker River National Wildlife Refuge
+1558,Pathfinder National Wildlife Refuge
+1559,Patoka River National Wildlife Refuge and Management Area
+1560,Patuxent Research Refuge
+1561,Pea Island National Wildlife Refuge
+1562,Pee Dee National Wildlife Refuge
+1563,Pelican Island National Wildlife Refuge
+1565,Piedmont National Wildlife Refuge
+1566,Pinckney Island National Wildlife Refuge
+1567,Pine Island National Wildlife Refuge
+1569,Pocosin Lakes National Wildlife Refuge
+1570,Pond Creek National Wildlife Refuge
+1571,Pond Island National Wildlife Refuge
+1572,Presquile National Wildlife Refuge
+1573,Prime Hook National Wildlife Refuge
+1574,Quivira National Wildlife Refuge
+1575,Rachel Carson National Wildlife Refuge
+1576,Rainwater Basin Wetland Management District
+1577,Rappahannock River Valley National Wildlife Refuge
+1578,Red Rock Lakes National Wildlife Refuge
+1579,Reelfoot National Wildlife Refuge
+1580,Rice Lake National Wildlife Refuge
+1581,Ridgefield National Wildlife Refuge
+1582,Roanoke River National Wildlife Refuge
+1583,Rocky Mountain Arsenal National Wildlife Refuge
+1584,Desecheo National Wildlife Refuge
+1585,Upper Mississippi River National Wildlife and Fish Refuge
+1586,Sabine National Wildlife Refuge
+1587,Sachuest Point National Wildlife Refuge
+1588,Sacramento National Wildlife Refuge
+1589,Sacramento River National Wildlife Refuge
+1590,Salinas River National Wildlife Refuge
+1591,Salt Plains National Wildlife Refuge
+1592,Sonny Bono Salton Sea National Wildlife Refuge
+1593,San Bernard National Wildlife Refuge
+1594,San Bernardino National Wildlife Refuge
+1595,San Diego Bay National Wildlife Refuge
+1596,San Luis National Wildlife Refuge
+1597,San Pablo Bay National Wildlife Refuge
+1598,Sand Lake National Wildlife Refuge
+1599,Sand Lake Wetland Management District
+1600,Sandy Point National Wildlife Refuge
+1601,Santa Ana National Wildlife Refuge
+1602,Santee National Wildlife Refuge
+1603,Savannah National Wildlife Refuge
+1605,Seal Beach National Wildlife Refuge
+1606,Seedskadee National Wildlife Refuge
+1607,Selawik National Wildlife Refuge
+1608,Seney National Wildlife Refuge
+1609,Sequoyah National Wildlife Refuge
+1610,Hart Mountain National Antelope Refuge
+1611,Shell Keys National Wildlife Refuge
+1612,Sherburne National Wildlife Refuge
+1614,Shiawassee National Wildlife Refuge
+1615,Slade National Wildlife Refuge
+1616,Loess Bluffs National Wildlife Refuge
+1617,St. Catherine Creek National Wildlife Refuge
+1618,St. Croix Wetland Management District
+1619,St. Marks National Wildlife Refuge
+1620,St. Vincent National Wildlife Refuge
+1621,Stewart B. McKinney National Wildlife Refuge
+1623,Stillwater National Wildlife Refuge
+1626,Sunkhaze Meadows National Wildlife Refuge
+1627,Supawna Meadows National Wildlife Refuge
+1629,Swan Lake National Wildlife Refuge
+1631,Swanquarter National Wildlife Refuge
+1632,San Diego National Wildlife Refuge
+1633,Tallahatchie National Wildlife Refuge
+1634,Tamarac National Wildlife Refuge
+1636,Target Rock National Wildlife Refuge
+1637,Tennessee National Wildlife Refuge
+1638,Tensas River National Wildlife Refuge
+1639,Tetlin National Wildlife Refuge
+1640,Tewaukon National Wildlife Refuge
+1642,Texas Point National Wildlife Refuge
+1643,Tijuana Slough National Wildlife Refuge
+1644,Tishomingo National Wildlife Refuge
+1645,Togiak National Wildlife Refuge
+1646,Toppenish National Wildlife Refuge
+1647,Trempealeau National Wildlife Refuge
+1648,Trustom Pond National Wildlife Refuge
+1649,Tule Lake National Wildlife Refuge
+1650,Turnbull National Wildlife Refuge
+1652,UL Bend National Wildlife Refuge
+1653,Umatilla National Wildlife Refuge
+1654,Union Slough National Wildlife Refuge
+1655,Upper Klamath National Wildlife Refuge
+1657,Upper Ouachita National Wildlife Refuge
+1658,Upper Souris National Wildlife Refuge
+1659,Valentine National Wildlife Refuge
+1660,Valley City Wetland Management District
+1661,Wallkill River National Wildlife Refuge
+1662,Wapack National Wildlife Refuge
+1663,Wapanocca National Wildlife Refuge
+1664,War Horse National Wildlife Refuge
+1665,Washita National Wildlife Refuge
+1666,Wassaw National Wildlife Refuge
+1667,Waubay National Wildlife Refuge
+1668,Waubay Wetland Management District
+1669,Wertheim National Wildlife Refuge
+1670,Wheeler National Wildlife Refuge
+1671,Dale Bumpers White River National Wildlife Refuge
+1672,Wichita Mountains Wildlife Refuge
+1673,Willapa National Wildlife Refuge
+1674,William L. Finley National Wildlife Refuge
+1675,Windom Wetland Management District
+1677,Yazoo National Wildlife Refuge
+1678,Yukon Delta National Wildlife Refuge
+1679,Yukon Flats National Wildlife Refuge
+1684,High Rock Canyon
+1685,Mark Twain Lake
+1686,Carlyle Lake
+1687,Illinois River - Riverlands
+1688,Mississippi River - Upper
+1689,Mississippi River - Kaskaskia River
+1690,Rend Lake
+1691,Lake Shelbyville
+1692,Wappapello Lake
+1693,Kremmling Recreation Management Area
+1694,Gunnison Gorge National Conservation Area
+1697,Penitente Canyon
+1699,National Forests in Alabama
+1700,Gold Belt Recreation Management Area
+1701,Lake Vermilion Public Islands
+1705,Little Black Mountain Petroglyph Site
+1708,Upper Colorado River Recreation Area
+1709,Eagle River Recreation Management Area
+1710,Lowry Pueblo National Historic Landmark
+1715,Mosquito Peaks
+1717,Fawn Creek Campground
+1719,Oregon National Historic Trail
+1720,Mt. Trumbull
+1725,National Bighorn Sheep Interpretive Center and Whiskey Mount
+1728,East Shore Recreation Site
+1730,The North Spit
+1731,Salmon Falls Creek Reservoir
+1732,North Fork Virgin River Merriam's Turkey Viewing Area
+1734,North Wildhorse Recreation Area
+1736,Orilla Verde Recreation Area
+1737,Owens Peak Wilderness (Short Canyon)
+1738,Owyhee Uplands Backcountry Byway
+1740,Point Sal
+1741,Park Creek Campground
+1742,Smith River Falls Campground
+1747,Rabbit Valley Trail Through Time
+1748,Red Elephant Mine Trail
+1751,Rough and Ready Botanical Wayside
+1752,Row River Trail
+1754,San Simon Valley
+1756,Schnell Ranch Recreation Area
+1757,Morley Nelson Snake River Birds of Prey National Conservation Area
+1759,Table Rock Wilderness
+1760,Three Rivers Petroglyph Site
+1761,Timbered Crater Wilderness Study Area
+1763,Turn Point
+1764,Upper Missouri National Wild and Scenic River
+1766,West Eugene Wetlands
+1767,Westwater Canyon
+1768,Coeur d'Alene Lake
+1771,Boundary Reservoir Recreation Area
+1773,Vincent Creek Campground
+1776,Lower Salmon River
+1779,Hult Dam & Reservoir
+1782,China Ditch Automobile Loop
+1784,Chopaka Lake and Chopaka Mountain Wilderness Study Area
+1785,Stoddard Valley OHV Area
+1786,Little Rockies Recreation Management Area
+1787,South Phillips Recreation Management Area
+1788,Garnet Recreation Management Area
+1789,Douglas Creek
+1790,Fishtrap Recreation Area
+1791,Lower Lake Creek Falls
+1793,Saddle Mountains
+1794,Split Rock
+1798,Almena Diversion Dam
+1799,Arcadia Diversion Dam
+1800,Woodston Diversion Dam
+1801,Sunshine Loop and Dutchman Mountain Bike Trails
+1802,Cabezon Wilderness Study Area 
+1803,Valley of Fires
+1805,Lake Superior Estuarine Research Reserve
+1806,Guadalupe Back Country Byway
+1808,Casamero Chacoan Outliers Recreation Management Area
+1811,Mokaac Trail
+1813,Vermilion Cliffs Highway
+1814,South Fork Owyhee River Recreation Area
+1815,South Fork Canyon Special Recreation Management  Area
+1816,Pine Forest Recreation Area
+1817,Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area
+1819,Ennis National Fish Hatchery
+1821,Mount Morris Dam and Recreation Area
+1823,Indian Creek Recreation Area
+1825,Success Lake
+1826,Red Rock Canyon National Conservation Area
+1827,Lakeview
+1828,Warner Wetlands
+1829,Diamond Craters Outstanding Natural Area
+1830,Steens Mountain Cooperative Management & Protection Area
+1832,Angel Peak Scenic Area
+1834,Owyhee Wild & Scenic River
+1835,Ignacio Chavez Special Management Area
+1839,The Box Recreation Area
+1840,San Lorenzo Canyon
+1843,Fishermen's Bend Recreation Area
+1845,Head Canyon OHV Recreation Area
+1848,Santa Cruz Lake Recreation Area
+1851,Yaquina Head Outstanding Natural Area
+1854,North Umpqua Wild and Scenic River 
+1856,Cow Creek Back Country Byway
+1858,Rogue Wild & Scenic River
+1861,Umpqua Field Office
+1864,Canyons Of Escalante/ Burr Trail
+1871,South Pass Historic Mining Area
+1872,North Platte River
+1874,Muddy Mountain Environmental Education Area
+1881,Senator Wash Boat Ramp Day Use Area
+1886,Mittry Lake Wildlife Area
+1889,Grand Coulee Dam
+1890,Fort Patrick Henry Lake
+1891,South Holston Lake
+1892,Watauga Lake
+1895,Boone Lake
+1896,Wilbur Lake
+1897,Cherokee Lake
+1898,Douglas Lake
+1899,Norris Lake
+1900,Melton Hill Lake
+1901,Watts Bar Lake
+1903,Midewin National Tallgrass Prairie
+1904,Fontana Lake
+1906,Tellico Lake
+1908,Apalachia Lake
+1910,Blue Ridge Lake
+1911,Chatuge Lake
+1912,Hiwassee Lake
+1913,Nottely Lake
+1914,"Ocoee Lakes 1, 2, and 3"
+1915,Chickamauga Lake
+1916,Nickajack Lake
+1917,Guntersville Lake
+1939,
+1940,
+1953,
+1973,Tims Ford Lake
+1974,Wheeler Lake
+1975,Wilson Lake
+1976,Kentucky Lake
+1977,Bear Creek Watershed Lakes
+1978,Beech River Watershed Lakes
+1979,Pickwick Lake
+1980,Normandy Lake
+1981,Fort Loudoun Lake
+1982,Great Falls Lake
+1987,Lake Solano
+1988,Shoshone River Pathway
+1991,Newton Lakes
+1993,Lake Winters Creek 
+1996,San Luis Lake and State Wildlife Area
+1997,Taylor River State Wildlife Area
+1998,Percha Diversion Dam
+2001,Payette River
+2002,Lake Powell
+2005,Dakota Prairie National Grasslands
+2011,Glen Canyon Dam
+2017,Flaming Gorge Dam
+2018,Rio Grande National Forest
+2023,Finger Lakes National Forest
+2025,Lake Tahoe Basin Management Unit
+2026,Hickison Petroglyph Recreation Area
+2030,Agua Fria National Monument
+2036,Agency Lake Ranch
+2038,Copper Basin Dunes OHV Area
+2040,Weeks Bay National Estuarine Research Reserve
+2041,Bear Springs Badlands
+2045,Gila Box Riparian National Conservation Area
+2047,Windy Point Recreation Site
+2048,Crossroads OHV Area
+2049,Take Off Point
+2050,Blythe Intaglios
+2058,Round Mountain Rockhound Area
+2065,Magic Reservoir
+2066,Gooding City of Rocks
+2068,Thorn Creek Reservoir
+2070,Great Rift Backcountry Area
+2072,Blackfoot River
+2076,St. Anthony Sand Dunes
+2077,Balanced Rock
+2080,Birds of Prey Scenic Float
+2107,Railroad Valley Wildlife Management Area
+2111,Goshute Mountain Watchable Wildlife Area
+2113,Baker Archaeological Viewing Site
+2115,Highland Range Crucial Bighorn Habitat
+2116,Lahontan Cutthroat Natural Area
+2117,Ash Springs Wildlife Area
+2119,Rhyolite Historic Area
+2125,Rio Bonito Petroglyph National Recreation Trail
+2131,Sand Wash Recreation Area
+2147,Drinks Canyon Camping Area
+2149,Fisher Towers National Recreation Trail
+2160,Sand Flats Recreation Area
+2163,Guadalupe-Nipomo Dunes National Wildlife Refuge
+2164,Stone Lakes National Wildlife Refuge
+2165,Franz Lake National Wildlife Refuge
+2166,Pierce National Wildlife Refuge
+2167,Huleia National Wildlife Refuge
+2168,San Juan Islands National Wildlife Refuge
+2170,Bitter Creek National Wildlife Refuge
+2171,Copalis National Wildlife Refuge
+2172,Flattery Rocks National Wildlife Refuge
+2173,Quillayute Needles National Wildlife Refuge
+2174,Protection Island National Wildlife Refuge
+2175,Siletz Bay National Wildlife Refuge
+2176,Three Arch Rocks National Wildlife Refuge
+2183,Cleveland Lloyd Dinosaur Quarry
+2191,Cliff Ridge Hang Gliding Area
+2195,Koosharem Reservoir
+2197,Desert Experimental Range
+2198,Grosvenor Arch
+2199,Joshua Tree National Landmark
+2213,House Range Recreation Area
+2214,Topaz Mountain Rockhound Recreation Area
+2215,Yuba Lake Recreation Area
+2217,Castle Gardens Scenic Area
+2220,Weston Hills
+2229,Rim Lake
+2238,Boulder Lake Recreation Area
+2239,Upper Green River Recreation Area
+2243,Fontenelle Creek Recreation Area
+2251,Names Hill
+2252,Killpecker Sand Dunes Open Play Area
+2258,Sutter National Wildlife Refuge
+2264,Table Rock Lake
+2265,Folsom Dam
+2268,Turkey Creek
+2272,Rug Road
+2273,Dos Cabezas Mountains Wilderness
+2274,North Santa Teresa Wilderness
+2275,Peloncillo Mountains Wilderness
+2276,Redfield Canyon Wilderness
+2277,Fishhooks Wilderness
+2278,Baker Canyon Wilderness Study Area
+2279,Sly Park Reservoir
+2280,Lake Natoma
+2284,Sugar Pine Reservoir
+2336,Tongass National Forest
+2337,Chugach National Forest
+2516,San Francisco Bay National Estuarine Research Reserve
+2536,Mission-Aransas National Estuarine Research Reserve
+2553,Abraham Lincoln Birthplace National Historical Park
+2554,Acadia National Park
+2555,Adams National Historical Park
+2556,Agate Fossil Beds National Monument
+2557,Alagnak Wild River
+2558,Alcatraz Island
+2559,Aleutian Islands World War II National Historic Area
+2560,Alibates Flint Quarries National Monument
+2561,Allegheny Portage Railroad National Historic Site
+2562,Amistad National Recreation Area
+2563,American Memorial Park
+2564,Anacostia Park
+2566,Andersonville National Historic Site
+2567,Aniakchak National Monument & Preserve
+2568,Andrew Johnson National Historic Site
+2569,Antietam National Battlefield
+2570,Appomattox Court House National Historical Park
+2571,Apostle Islands National Lakeshore
+2572,Appalachian National Scenic Trail
+2573,Arches National Park
+2575,Arkansas Post National Memorial
+2576,Assateague Island National Seashore
+2577,Aztec Ruins National Monument
+2578,Badlands National Park
+2579,Bandelier National Monument
+2581,Baltimore-Washington Parkway
+2582,Bering Land Bridge National Preserve
+2583,Bent's Old Fort National Historic Site
+2584,Big Bend National Park
+2585,Bighorn Canyon National Recreation Area
+2586,Big Cypress National Preserve
+2587,Big Hole National Battlefield
+2588,Biscayne National Park
+2589,Big South Fork National River & Recreation Area
+2590,Big Thicket National Preserve
+2591,John H. Chafee Blackstone River Valley National Heritage Corridor
+2592,Black Canyon Of The Gunnison National Park
+2593,Blue Ridge Parkway
+2594,Bluestone National Scenic River
+2595,Boston African American National Historic Site
+2596,Boston Harbor Islands National Recreation Area
+2597,Boston National Historical Park
+2598,Booker T Washington National Monument
+2599,Bryce Canyon National Park
+2600,Brices Cross Roads National Battlefield Site
+2601,Brown v. Board of Education National Historical Park
+2602,Buffalo National River
+2603,Buck Island Reef National Monument
+2604,Cabrillo National Monument
+2605,Canyon de Chelly National Monument
+2606,Castle Clinton National Monument
+2607,Cape Cod National Seashore
+2608,Casa Grande Ruins National Monument
+2609,Cape Hatteras National Seashore
+2610,Capitol Hill Parks
+2611,Cape Krusenstern National Monument
+2612,California National Historic Trail
+2613,Cape Lookout National Seashore
+2614,Cape Henry Memorial Part of Colonial National Historical Park
+2615,Canaveral National Seashore
+2616,Canyonlands National Park
+2617,Capitol Reef National Park
+2618,Cane River Creole National Historical Park
+2619,Carl Sandburg Home National Historic Site
+2620,Castillo De San Marcos National Monument
+2621,Catoctin Mountain Park
+2622,Carlsbad Caverns National Park
+2623,Capulin Volcano National Monument
+2624,Cedar Breaks National Monument
+2625,Chamizal National Memorial
+2626,Chattahoochee River National Recreation Area
+2627,Chickamauga & Chattanooga National Military Park
+2628,Chaco Culture National Historical Park
+2629,Chickasaw National Recreation Area
+2630,Chiricahua National Monument
+2631,Channel Islands National Park
+2632,Chesapeake & Ohio Canal National Historical Park
+2633,Charles Pinckney National Historic Site
+2634,Christiansted National Historic Site
+2637,City Of Rocks National Reserve
+2641,Colorado National Monument
+2642,Colonial National Historical Park
+2644,Congaree National Park
+2645,Cowpens National Battlefield
+2646,Cane River National Heritage Area
+2647,Crater Lake National Park
+2648,Craters Of The Moon National Monument & Preserve
+2649,Cumberland Gap National Historical Park
+2650,Cumberland Island National Seashore
+2651,Curecanti National Recreation Area
+2652,Cuyahoga Valley National Park
+2653,Dayton Aviation Heritage National Historical Park
+2656,Delaware & Lehigh National Heritage Corridor
+2658,Denali National Park & Preserve
+2659,Devils Postpile National Monument
+2660,De Soto National Memorial
+2661,Devils Tower National Monument
+2662,Death Valley National Park
+2663,Delaware Water Gap National Recreation Area
+2664,Dinosaur National Monument
+2665,Dry Tortugas National Park
+2666,Ebey's Landing National Historical Reserve
+2668,Thomas Edison National Historical Park
+2669,Effigy Mounds National Monument
+2672,El Malpais National Monument
+2673,El Morro National Monument
+2675,Erie Canalway National Heritage Corridor
+2676,Eugene O'Neill National Historic Site
+2677,Everglades National Park
+2681,Fire Island National Seashore
+2683,Florissant Fossil Beds National Monument
+2684,Fort Bowie National Historic Site
+2685,Fossil Butte National Monument
+2686,Fort Caroline National Memorial
+2688,Fort Davis National Historic Site
+2689,Fort Donelson National Battlefield
+2690,Fort Dupont Park
+2691,Fort Frederica National Monument
+2692,Fort Laramie National Historic Site
+2693,Fort Larned National Historic Site
+2694,Fort Matanzas National Monument
+2695,Fort McHenry National Monument and Historic Shrine
+2697,Fort Necessity National Battlefield
+2698,Fort Point National Historic Site
+2699,Fort Pulaski National Monument
+2700,Fort Raleigh National Historic Site
+2701,Fort Scott National Historic Site
+2702,Fort Smith National Historic Site
+2703,Fort Stanwix National Monument
+2704,Fort Sumter and Fort Moultrie National Historical Park
+2706,Fort Union National Monument
+2708,Fort Vancouver National Historic Site
+2709,Fort Washington Park
+2711,Frederick Douglass National Historic Site
+2713,Friendship Hill National Historic Site
+2714,Frederick Law Olmsted National Historic Site
+2715,Fredericksburg & Spotsylvania National Military Park
+2716,Gates Of The Arctic National Park & Preserve
+2717,Gauley River National Recreation Area
+2718,Gateway National Recreation Area
+2720,George Rogers Clark National Historical Park
+2722,Gettysburg National Military Park
+2724,Gila Cliff Dwellings National Monument
+2725,Glacier National Park
+2726,Glacier Bay National Park & Preserve
+2727,Glen Canyon National Recreation Area
+2729,Glen Echo Park
+2730,Golden Gate National Recreation Area
+2732,Great Basin National Park
+2733,Grand Canyon National Park
+2734,Greenbelt Park
+2735,Great Falls Park
+2736,Grant-Kohrs Ranch National Historic Site
+2737,Grand Portage National Monument
+2738,Great Sand Dunes National Park & Preserve
+2739,Great Smoky Mountains National Park
+2740,Green Springs
+2742,Guilford Courthouse National Military Park
+2743,Gulf Islands National Seashore
+2744,Guadalupe Mountains National Park
+2745,George Washington Carver National Monument
+2746,George Washington Memorial Parkway
+2747,Harpers Ferry National Historical Park
+2748,Hagerman Fossil Beds National Monument
+2751,Haleakalā National Park
+2753,Hawaiʻi Volcanoes National Park
+2754,Herbert Hoover National Historic Site
+2755,Horseshoe Bend National Military Park
+2756,Hopewell Culture National Historical Park
+2759,Homestead National Historical Park
+2760,Hot Springs National Park
+2761,Hovenweep National Monument
+2764,Ice Age National Scenic Trail
+2766,Independence National Historical Park
+2767,Indiana Dunes National Park
+2769,Isle Royale National Park
+2771,Historic Jamestowne Part of Colonial National Historical Park
+2772,Jewel Cave National Monument
+2777,John Day Fossil Beds National Monument
+2780,Johnstown Flood National Memorial
+2782,Joshua Tree National Park
+2783,Juan Bautista de Anza National Historic Trail
+2785,Kalaupapa National Historical Park
+2786,Katmai National Park & Preserve
+2787,Kenai Fjords National Park
+2788,Kennesaw Mountain National Battlefield Park
+2789,Kenilworth Park & Aquatic Gardens
+2790,Keweenaw National Historical Park
+2791,Kings Mountain National Military Park
+2792,Klondike Gold Rush National Historical Park
+2793,Klondike Gold Rush - Seattle Unit National Historical Park
+2794,Knife River Indian Villages National Historic Site
+2795,Kobuk Valley National Park
+2797,Lava Beds National Monument
+2799,Lake Clark National Park & Preserve
+2801,Lake Meredith National Recreation Area
+2802,Lake Roosevelt National Recreation Area
+2803,Lassen Volcanic National Park
+2804,Lewis & Clark National Historic Trail
+2805,Little Bighorn Battlefield National Monument
+2809,Little River Canyon National Preserve
+2813,Lyndon Baines Johnson Memorial Grove on the Potomac
+2814,Lyndon B Johnson National Historical Park
+2815,Maine Acadian Culture
+2817,Marsh - Billings - Rockefeller National Historical Park
+2818,Mammoth Cave National Park
+2820,Manassas National Battlefield Park
+2821,Manzanar National Historic Site
+2822,Martin Van Buren National Historic Site
+2823,Maggie L Walker National Historic Site
+2824,Mesa Verde National Park
+2825,Minute Man National Historical Park
+2826,Minuteman Missile National Historic Site
+2827,Mississippi National River & Recreation Area
+2828,Missouri National Recreational River
+2829,Montezuma Castle National Monument
+2830,Moores Creek National Battlefield
+2831,Mojave National Preserve
+2832,Monocacy National Battlefield
+2834,Mormon Pioneer National Historic Trail
+2835,Mount Rainier National Park
+2836,Morristown National Historical Park
+2837,Mount Rushmore National Memorial
+2838,New Orleans Jazz National Historical Park
+2839,Nez Perce National Historical Park
+2840,New River Gorge National Park & Preserve
+2841,Nicodemus National Historic Site
+2842,Niobrara National Scenic River
+2843,Ninety Six National Historic Site
+2844,Noatak National Preserve
+2845,North Cascades National Park
+2846,North Country National Scenic Trail
+2847,National Park of American Samoa
+2848,Overmountain Victory National Historic Trail
+2850,Ozark National Scenic Riverways
+2851,Palo Alto Battlefield National Historical Park
+2852,Pennsylvania Avenue National Historic Site
+2853,Padre Island National Seashore
+2854,Grand Canyon-Parashant National Monument
+2855,Pecos National Historical Park
+2856,Petrified Forest National Park
+2857,Piscataway Park
+2858,Pipe Spring National Monument
+2860,Pony Express National Historic Trail
+2862,Potomac Heritage National Scenic Trail
+2863,Poverty Point National Monument
+2864,Point Reyes National Seashore
+2866,Muir Woods National Monument
+2867,Natural Bridges National Monument
+2869,National Capital Parks-East
+2870,National Mall and Memorial Parks
+2871,Natchez National Historical Park
+2872,Natchez Trace Parkway
+2873,Navajo National Monument
+2874,New Bedford Whaling National Historical Park
+2877,Obed Wild & Scenic River
+2878,Ocmulgee Mounds National Historical Park
+2879,Oklahoma City National Memorial
+2881,Olympic National Park
+2883,Oregon Caves National Monument & Preserve
+2885,Organ Pipe Cactus National Monument
+2886,Pea Ridge National Military Park
+2887,Petersburg National Battlefield
+2888,Petroglyph National Monument
+2889,Perry's Victory & International Peace Memorial
+2892,New Jersey Pinelands National Reserve
+2893,Pinnacles National Park
+2894,Pipestone National Monument
+2895,Pictured Rocks National Lakeshore
+2896,Prince William Forest Park
+2899,Quinebaug & Shetucket Rivers Valley National Heritage Corridor
+2900,Rainbow Bridge National Monument
+2901,Redwood National and State Parks
+2902,Richmond National Battlefield Park
+2903,Rio Grande Wild & Scenic River
+2904,Roosevelt Campobello International Park
+2905,Rock Creek Park
+2907,Rocky Mountain National Park
+2908,Rosie the Riveter WWII Home Front National Historical Park
+2909,Roger Williams National Memorial
+2910,Russell Cave National Monument
+2911,San Antonio Missions National Historical Park
+2912,Saint Croix National Scenic Riverway
+2913,Saint Croix Island International Historic Site
+2914,Santa Fe National Historic Trail
+2915,San Francisco Maritime National Historical Park
+2916,Saint-Gaudens National Historical Park
+2917,Saguaro National Park
+2918,Sagamore Hill National Historic Site
+2919,Saugus Iron Works National Historic Site
+2920,San Juan Island National Historical Park
+2921,San Juan National Historic Site
+2922,Salem Maritime National Historic Site
+2923,Santa Monica Mountains National Recreation Area
+2924,Sand Creek Massacre National Historic Site
+2926,Salinas Pueblo Missions National Monument
+2927,Saratoga National Historical Park
+2928,Salt River Bay National Historic Park and Ecological Preserve
+2929,Scotts Bluff National Monument
+2931,Sequoia & Kings Canyon National Parks
+2932,Selma To Montgomery National Historic Trail
+2933,Shenandoah National Park
+2934,Shiloh National Military Park
+2936,Sitka National Historical Park
+2937,Sleeping Bear Dunes National Lakeshore
+2938,Springfield Armory National Historic Site
+2940,Steamtown National Historic Site
+2941,Statue Of Liberty National Monument
+2942,Stones River National Battlefield
+2943,Sunset Crater Volcano National Monument
+2944,Tallgrass Prairie National Preserve
+2945,Theodore Roosevelt Island Park
+2949,Theodore Roosevelt National Park
+2951,Timpanogos Cave National Monument
+2952,Timucuan Ecological & Historic Preserve
+2953,Tonto National Monument
+2955,Trail Of Tears National Historic Trail
+2956,Tuskegee Airmen National Historic Site
+2957,Tuskegee Institute National Historic Site
+2958,Tumacácori National Historical Park
+2959,Tupelo National Battlefield
+2960,Tuzigoot National Monument
+2961,Ulysses S Grant National Historic Site
+2962,Upper Delaware Scenic & Recreational River
+2964,Valley Forge National Historical Park
+2966,Vicksburg National Military Park
+2967,Virgin Islands National Park
+2970,Voyageurs National Park
+2971,Washita Battlefield National Historic Site
+2972,Walnut Canyon National Monument
+2973,War In The Pacific National Historical Park
+2975,Weir Farm National Historical Park
+2977,Whiskeytown National Recreation Area
+2978,Whitman Mission National Historic Site
+2979,White Sands National Park
+2980,Wind Cave National Park
+2981,Wilson's Creek National Battlefield
+2983,Women's Rights National Historical Park
+2985,Wright Brothers National Memorial
+2986,Wrangell - St Elias National Park & Preserve
+2987,Wupatki National Monument
+2988,Yellowstone National Park
+2991,Yosemite National Park
+2992,Yukon - Charley Rivers National Preserve
+2993,Yucca House National Monument
+2994,Zion National Park
+2995,Olympic Coast National Marine Sanctuary
+2996,Channel Islands National Marine Sanctuary
+2997,Cordell Bank National Marine Sanctuary
+2998,National Marine Sanctuary of American Samoa
+2999,Flower Garden Banks National Marine Sanctuary
+3070,Gray's Reef National Marine Sanctuary
+3071,Greater Farallones National Marine Sanctuary
+3072,Thunder Bay National Marine Sanctuary
+3073,Stellwagen Bank National Marine Sanctuary
+3074,Monterey Bay National Marine Sanctuary
+3075,Florida Keys National Marine Sanctuary
+3076,Monitor National Marine Sanctuary
+3078,Apalachicola National Estuarine Research Reserve
+3079,ACE Basin National Estuarine Research Reserve
+3080,Chesapeake Bay Maryland National Estuarine Research Reserve
+3081,Chesapeake Bay Virginia National Estuarine Research Reserve
+3082,Delaware National Estuarine Research Reserve
+3083,Elkhorn Slough National Estuarine Research Reserve
+3084,Guana Tolomato Matanzas National Estuarine Research Reserve
+3085,Grand Bay National Estuarine Research Reserve
+3086,Great Bay National Estuarine Research Reserve
+3087,Hudson River National Estuarine Research Reserve
+3088,Jacques Cousteau National Estuarine Research Reserve
+3089,Jobos Bay National Estuarine Research Reserve
+3090,Kachemak Bay National Estuarine Research Reserve
+3091,Narragansett Bay National Estuarine Research Reserve
+3093,North Carolina National Estuarine Research Reserve
+3095,North Inlet-Winyah Bay National Estuarine Research Reserve
+3096,Old Woman Creek National Estuarine Research Reserve
+3097,Padilla Bay National Estuarine Research Reserve
+3098,Rookery Bay National Estuarine Research Reserve
+3099,Sapelo Island National Estuarine Research Reserve
+3100,South Slough National Estuarine Research Reserve
+3101,Tijuana River National Estuarine Research Reserve
+3102,Waquoit Bay National Estuarine Research Reserve
+3104,Hawaiian Islands Humpback Whale National Marine Sanctuary
+3105,Papahānaumokuākea Marine National Monument
+3107,California Coastal National Monument
+3108,Grand Canyon - Parashant National Monument
+3110,Sonoran Desert National Monument
+3111,Vermilion Cliffs National Monument
+3112,Carrizo Plain National Monument
+3113,Santa Rosa and San Jacinto Mountains National Monument
+3114,Canyons of the Ancient National Monument
+3115,Craters of the Moon National Monument
+3116,Pompeys Pillar National Monument
+3117,Upper Missouri River Breaks National Monument
+3118,Kasha-Katuwe Tent Rocks National Monument
+3119,Cascade-Siskiyou National Monument
+3120,Grand Staircase-Escalante National Monument
+3123,McInnis Canyons National Conservation Area
+3127,Webster Reservoir
+3129,Freezeout Lake
+3130,Gerber Dam and Reservoir
+3131,Thief Valley Dam and Reservoir
+3132,Upper Klamath Lake
+3133,Clear Lake Reservoir
+3134,Wolf Trap National Park for the Performing Arts
+3135,El Camino Real de Tierra Adentro National Historic Trail
+3137,Chesapeake Bay
+3138,Cedar Creek & Belle Grove National Historical Park
+3144,Annmarie Garden on St. John
+3149,Arizona-Sonora Desert Museum
+3266,Two Ponds National Wildlife Refuge
+3915,Buffalo Lake National Wildlife Refuge
+3916,Cahaba River National Wildlife Refuge
+3917,Fish Springs National Wildlife Refuge
+3918,Kulm Wetland Management District
+3919,McNary National Wildlife Refuge
+3920,Ruby Lake National Wildlife Refuge
+3921,Rydell National Wildlife Refuge
+3922,Sheldon National Wildlife Refuge
+3923,Izembek National Wildlife Refuge
+3924,Northern Tallgrass Prairie National Wildlife Refuge
+3925,Sauta Cave National Wildlife Refuge
+3926,Watercress Darter National Wildlife Refuge
+3927,Key Cave National Wildlife Refuge
+3928,Logan Cave National Wildlife Refuge
+3929,Bill Williams River National Wildlife Refuge
+3930,Leslie Canyon National Wildlife Refuge
+3931,Hopper Mountain National Wildlife Refuge
+3932,Butte Sink Wildlife Management Area
+3933,Pixley National Wildlife Refuge
+3934,Castle Rock National Wildlife Refuge
+3935,Steve Thompson North Central Valley Wildlife Management Area
+3936,Farallon National Wildlife Refuge
+3937,Ellicott Slough National Wildlife Refuge
+3938,Antioch Dunes National Wildlife Refuge
+3939,Marin Islands National Wildlife Refuge
+3940,Blue Ridge National Wildlife Refuge
+3941,San Joaquin River National Wildlife Refuge
+3942,Mortenson Lake National Wildlife Refuge
+3943,Bamforth National Wildlife Refuge
+3944,Crocodile Lake National Wildlife Refuge
+3945,Lake Wales Ridge National Wildlife Refuge
+3946,Ten Thousand Islands National Wildlife Refuge
+3947,St. Johns National Wildlife Refuge
+3948,Passage Key National Wildlife Refuge
+3949,Pinellas National Wildlife Refuge
+3950,Karl E. Mundt National Wildlife Refuge
+3952,Lower Rio Grande Valley National Wildlife Refuge
+3957,Shawangunk Grasslands National Wildlife Refuge
+3958,Ozark Plateau National Wildlife Refuge
+3959,Tualatin River National Wildlife Refuge
+3960,John W. and Louise Seier National Wildlife Refuge
+3961,Boyer Chute National Wildlife Refuge
+3962,Sevilleta National Wildlife Refuge
+3963,San Andres National Wildlife Refuge
+3964,Florida Panther National Wildlife Refuge
+3965,Wolf Island National Wildlife Refuge
+3966,Tybee National Wildlife Refuge
+3967,Kakahai‘a National Wildlife Refuge
+3968,Baker Island National Wildlife Refuge
+3995,Ankeny National Wildlife Refuge
+3996,Moapa Valley National Wildlife Refuge
+3997,Seatuck National Wildlife Refuge
+3998,Conscience Point National Wildlife Refuge
+3999,Elizabeth Alexandra Morton National Wildlife Refuge
+4000,West Sister Island National Wildlife Refuge
+4001,Nestucca Bay National Wildlife Refuge
+4002,Vieques National Wildlife Refuge
+4004,John H. Chafee National Wildlife Refuge
+4005,Waccamaw National Wildlife Refuge
+4007,Howland Island National Wildlife Refuge
+4008,Jarvis Island National Wildlife Refuge
+4009,Rose Atoll National Wildlife Refuge
+4010,Hawaiian Islands National Wildlife Refuge
+4011,Kingman Reef National Wildlife Refuge
+4012,Palmyra Atoll National Wildlife Refuge
+4013,Oahu Forest National Wildlife Refuge
+4014,Red River National Wildlife Refuge
+4015,Cat Island National Wildlife Refuge
+4016,Bayou Teche National Wildlife Refuge
+4017,Aroostook National Wildlife Refuge
+4018,Michigan Islands National Wildlife Refuge
+4019,Mille Lacs National Wildlife Refuge
+4020,Pilot Knob National Wildlife Refuge
+4021,Lost Trail National Wildlife Refuge
+4029,Florence Lake National Wildlife Refuge
+4035,Trinity River National Wildlife Refuge
+4037,Wallops Island National Wildlife Refuge
+4038,Plum Tree Island National Wildlife Refuge
+4039,Featherstone National Wildlife Refuge
+4041,Steigerwald Lake National Wildlife Refuge
+4042,Occoquan Bay National Wildlife Refuge
+4043,Fisherman Island National Wildlife Refuge
+4044,Green Cay National Wildlife Refuge
+4045,Saddle Mountain National Wildlife Refuge
+4046,Thacher Island National Wildlife Refuge
+4047,Mashpee National Wildlife Refuge
+4048,Massasoit National Wildlife Refuge
+4049,Great River National Wildlife Refuge
+4050,Coldwater River National Wildlife Refuge
+4051,Green Bay National Wildlife Refuge
+4052,Gravel Island National Wildlife Refuge
+4053,Cokeville Meadows National Wildlife Refuge
+4054,Port Louisa National Wildlife Refuge
+4055,Middle Mississippi River National Wildlife Refuge
+4056,Two Rivers National Wildlife Refuge
+4057,Big Oaks National Wildlife Refuge
+4058,Marais des Cygnes National Wildlife Refuge
+4059,Clarks River National Wildlife Refuge
+4060,Nomans Land Island National Wildlife Refuge
+4061,Assabet River National Wildlife Refuge
+4063,Glenn Martin National Wildlife Refuge
+4064,Seal Island National Wildlife Refuge
+4065,Franklin Island National Wildlife Refuge
+4066,Ala Kahakai National Historic Trail
+4071,Essex National Heritage Area
+4072,Fort Foote Park
+4074,American National Fish and Wildlife Museum:  Wonders of Wild
+4075,Lincoln Park Coast Cultural District
+4091,Willow Creek-Lurline Wildlife Management Area
+4092,Whittlesey Creek National Wildlife Refuge
+4094,Detroit River International Wildlife Refuge
+4095,Michigan Wetland Management District
+4098,Tewaukon Wetland Management District
+4099,Long Lake Wetland Management District
+4100,Rock Lake National Wildlife Refuge
+4101,Hewitt Lake National Wildlife Refuge
+4109,Safford-Morenci Trail
+4110,Wood Thrush Trail
+4138,Lonetree Wildlife Management Area
+4148,Bond Swamp National Wildlife Refuge

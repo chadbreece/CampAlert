@@ -3,7 +3,7 @@
 - [X] Chad - Figure out how to send an email using SMTP
 - [ ] Chad - Get RasPi to pull repo and run camply for one user.
 - [ ] Chad - Build a better email notification for results as they are found.
-- [ ] Build basic reminder notification for hard-to-get campsites.
+- [ ] Chad - Build basic reminder notification for hard-to-get campsites.
 - [ ] Juan - Create one thread per user
 - [ ] Juan - Run the code in Raspberry Pi
 - [ ] Juan - Use cron to schedule restarting the code 
